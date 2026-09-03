@@ -1,0 +1,8 @@
+{
+  "name": "ReflectAI - Private Gemini Journal & Firestore",
+  "description": "User-authenticated personal journaling, reflection, and AI brainstorming app powered by Gemini 3.6 Flash and Cloud Firestore with Google Sign-In.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
